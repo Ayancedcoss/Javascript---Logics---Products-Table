@@ -1,0 +1,28 @@
+div{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+div input{
+    border: 1px solid black;
+    margin-left: 3%;
+    width: 40%;
+    height: 30px;
+}
+div #demo1{
+    border: 1px solid black;
+    margin-left: 55px;
+}
+#btn1{
+    border: 3px solid black;
+    height: 70px;
+    width: 30%;
+    background-color: white;
+}
+#display{
+    /* border: 2px solid red; */
+    margin-left: 20%;
+}
+#display th{
+
+    padding: 0px 50px 50px  50px; 
+}
